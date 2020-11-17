@@ -1,37 +1,37 @@
-# MyScreenSaver
-{EPITECH} -- First year -- first graphic project
+<h1>MyScreenSaver</h1>
+<h3>{EPITECH} -- First year -- Semester 1 -- first graphic project</h3>
 
-1st semester MUL unit : Grade C
+<p>1st semester MUL unit : Grade C</p>
 
-My_screensaver -- Without Crash
+<p>My_screensaver -- Without Crash</p>
 
-Result : 100 %
+<p>Result : 100 %</p>
 
-Result : 21,5
-  - Preliminary (0.5 / 2) :
-  - Major (-3 / 0) :
-  - Minor (-3 / 0) :
-  - Too many style errors (0 / 1) :
-  - Parameter (1 / 5) :
-  - Display pixel (1 / 1) :
-  - Changing frames (2 / 2) :
-  - Distinct animations (1 / 6) :
-  - Window size (1 / 5) :
-  - Usage (1 / 1) :
-  - Line (0 / 6) :
-  - Shapes (4 / 8) :
-  - Size variations (2 / 2) :
-  - Color variations (1 / 7) :
-  - Numbers of entities (6 / 6) :
-  - Path of the entity (2 / 5) :
-  - Bouncing (0 / 3) :
-  - Fading (0 / 2) :
-  - Speed (0 / 3) :
-  - Scaling (0 / 2) :
-  - Other mathematical effects (0 / 10) :
-  - Shape (3 / 4) :
-  - Transformation (0 / 2) :
-  - Representative (1 / 1) :
-  - Animation feelings (1 / 1) :
-  
-Beware of -42 for Epitech students
+<p>Result : 21,5</p>
+  <li>Preliminary (0.5 / 2) :</li>
+  <li>Major (-3 / 0) :</li>
+  <li>Minor (-3 / 0) :</li>
+  <li>Too many style errors (0 / 1) :</li>
+  <li>Parameter (1 / 5) :</li>
+  <li>Display pixel (1 / 1) :</li>
+  <li>Changing frames (2 / 2) :</li>
+  <li>Distinct animations (1 / 6) :</li>
+  <li>Window size (1 / 5) :</li>
+  <li>Usage (1 / 1) :</li>
+  <li>Line (0 / 6) :</li>
+  <li>Shapes (4 / 8) :</li>
+  <li>Size variations (2 / 2) :</li>
+  <li>Color variations (1 / 7) :</li>
+  <li>Numbers of entities (6 / 6) :</li>
+  <li>Path of the entity (2 / 5) :</li>
+  <li>Bouncing (0 / 3) :</li>
+  <li>Fading (0 / 2) :</li>
+  <li>Speed (0 / 3) :</li>
+  <li>Scaling (0 / 2) :</li>
+  <li>Other mathematical effects (0 / 10) :</li>
+  <li>Shape (3 / 4) :</li>
+  <li>Transformation (0 / 2) :</li>
+  <li>Representative (1 / 1) :</li>
+  <li>Animation feelings (1 / 1) :</li>
+  <p></p>
+<p>Beware of -42 for Epitech students</p>
