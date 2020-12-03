@@ -30,6 +30,6 @@
 |       Transformation       |             0 / 2             |    x    |
 |       Representative       |             1 / 1             |    x    |
 |     Animation feelings     |             1 / 1             |    x    |
-|         **Results**        | **21,5 / 83** soit **25,9 %** |    x    |
+|         **Results**        |         **21,5 / 83**         |    x    |
 
 Beware of -42 for Epitech students
